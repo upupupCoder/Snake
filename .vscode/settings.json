@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.txt": "code-text-binary",
+        "snake.h": "c",
+        "at070tn92_lcd.h": "c",
+        "tounch.h": "c",
+        "cstdio": "c",
+        "display.h": "c",
+        "word.h": "c",
+        "cmath": "c",
+        "limits": "c",
+        "*.tcc": "c",
+        "typeinfo": "c"
+    }
+}
